@@ -4,6 +4,10 @@ Guía de estudio de **Flexibility of Brain Networks May Curtail Cognitive Conseq
 
 Página: https://kraksiplus.github.io/neuro-t11-sueno-flexibilidad/
 
+## Otras guías
+
+- Ding et al. 2025, regla de cableado en la corteza visual: https://kraksiplus.github.io/neuro-t11-sueno-flexibilidad/ding-2025/
+
 ## Contenido
 
 - Resumen del paper y explicación del diseño (actigrafía + fMRI, 39 participantes).
